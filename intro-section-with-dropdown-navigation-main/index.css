@@ -1,0 +1,21 @@
+
+:root{
+    --clr
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  list-style: 1.5;
+  font-size: 1.2rem;
+  font-family: "Epilogue", sans-serif;
+}
+a {
+  text-decoration: none;
+}
